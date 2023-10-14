@@ -5,7 +5,7 @@
 <!-- Intro -->
 <h3 align="center">
     <samp>&gt; Hello! I am
-            <b><a target="_blank" href="">ooiu</a></b>
+            <b><a target="_blank" href="">networth</a></b>
     </samp>
 </h3>
 
@@ -26,7 +26,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  🖥️ &emsp; I mainly use: <b>Arch, Sway</b><br/><br/>
- 📧 &emsp; How to reach me: <b>lqwl @ Discord</b><br/><br/>
+ 📧 &emsp; How to reach me: <b>networph @ Discord</b><br/><br/>
  💬 &emsp; Feel free to ask me about anything<br/><br/>
  📘 &emsp; I'm currently learning: <b>C++, Python, Node.js</b><br/><br/>
  🚧 &emsp; I'm working on: <b>Mainly random things</b><br/><br/>
