@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a secret project
 - 🤔 I’m looking for help nothing atm
-- 
+- ⭐ I am leaning c++ atm
 
 
 ![networth's GitHub stats](https://github-readme-stats.vercel.app/api?username=networph&show_icons=true&theme=synthwave)
