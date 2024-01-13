@@ -1,4 +1,4 @@
-### Networph **
+### Networth
 
 - 🔭 I’m currently working on a secret project
 - 🤔 I’m looking for help nothing atm
