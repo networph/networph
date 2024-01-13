@@ -7,7 +7,7 @@
 
 ![networth's GitHub stats](https://github-readme-stats.vercel.app/api?username=networph&show_icons=true&theme=synthwave)
 
-<img src="https://komarev.com/ghpvc/?username=killajoe&label=Profile%20views&color=08052b&style=flat" alt="Views"/>
+<img src="https://komarev.com/ghpvc/?username=networph&label=Profile%20views&color=08052b&style=flat" alt="Views"/>
 
 
 
