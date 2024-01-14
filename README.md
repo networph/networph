@@ -4,9 +4,7 @@
 - 🤔 I’m looking for help nothing atm
 - ⭐ I am leaning c++ atm
 
-
-![networth's GitHub stats](https://github-readme-stats.vercel.app/api?username=networph&show_icons=true&theme=synthwave)
-
+![lqwl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Networph&show_icons=true&theme=transparent)
 <img src="https://komarev.com/ghpvc/?username=networph&label=Profile%20views&color=08052b&style=flat" alt="Views"/>
 
 
