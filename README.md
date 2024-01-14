@@ -3,8 +3,9 @@
 - 🔭 I’m currently working on a secret project
 - 🤔 I’m looking for help nothing atm
 - ⭐ I am leaning c++ atm
-
-![lqwl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Networph&show_icons=true&theme=transparent)
+- 
+<img src="https://github.com/networph/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/networph/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 <img src="https://komarev.com/ghpvc/?username=networph&label=Profile%20views&color=08052b&style=flat" alt="Views"/>
 
 
