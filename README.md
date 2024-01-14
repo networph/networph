@@ -1,4 +1,5 @@
-### Networth
+### Networth                              <img src="https://komarev.com/ghpvc/?username=networph&label=Profile%20views&color=08052b&style=flat" alt="Views"/>
+
 
 - 🔭 I’m currently working on a secret project
 - 🤔 I’m looking for help nothing atm
@@ -6,7 +7,6 @@
 - 
 
 ![lqwl's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
-<img src="https://komarev.com/ghpvc/?username=networph&label=Profile%20views&color=08052b&style=flat" alt="Views"/>
 
 
 
