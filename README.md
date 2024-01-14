@@ -1,4 +1,4 @@
-### Networth                              <img src="https://komarev.com/ghpvc/?username=networph&label=Profile%20views&color=08052b&style=flat" alt="Views"/>
+### Networth         
 
 
 - 🔭 I’m currently working on a secret project
@@ -6,7 +6,7 @@
 - ⭐ I am leaning c++ atm
 - 
 
-![lqwl's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![lqwl's GitHub stats](https://github-readme-stats.vercel.app/api?username=networph&show_icons=true&theme=dracula)
 
 
 
