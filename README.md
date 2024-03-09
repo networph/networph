@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a secret project
 - 🤔 Kinda just using github to host random stuff
-- ⭐ I am leaning c++ atm
+- ⭐ I am learning c++ atm
 
 ![lqwl's GitHub stats](https://github-readme-stats.vercel.app/api?username=networph&show_icons=true&theme=dracula)
 
