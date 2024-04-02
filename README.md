@@ -1,15 +1,12 @@
 ### Networth         
 
 
-- 🔭 I’m currently working on a secret project
-- 🤔 Kinda just using github to host random stuff
-- ⭐ I am learning c++ atm
-
-![lqwl's GitHub stats](https://github-readme-stats.vercel.app/api?username=networph&show_icons=true&theme=dracula)
+-- overit.one -- owner 
+-- Dm for a inv
+-- programming fanatic 👽👽👽👽👽
 
 
 
-## 🛠️ Languages and Tools I Use
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
@@ -27,20 +24,8 @@
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
 
-<br/>
-<hr/>
-<br/>
 
-## 🌐 Connect with me
 
-<p align="center">
-<a href="https://discord.com/users/1139334434361982986" target="blank"><img align="center" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="yourDiscordHandle" /></a>
-</p>
 
-<br/>
-
-<p align="center"> 
-    🎉 Thanks for Stopping by! 🎉
-</p>
 
 
