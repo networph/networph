@@ -7,6 +7,6 @@
 ### owner of overit.one
 
   
-&nbsp;<p align="center">![](https://komarev.com/ghpvc/?networph&color=blue)<br>
+&nbsp;<p align="center">![](https://komarev.com/ghpvc/?networph)<br>
 
   <div align="center" >
