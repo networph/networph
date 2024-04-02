@@ -7,6 +7,6 @@
 ### owner of overit.one
 
   
-&nbsp;<p align="center">![](https://komarev.com/ghpvc/?networph&abbreviated=true&color=BCF5EA)<br>
+&nbsp;<p align="center">![](https://komarev.com/ghpvc/?networth&abbreviated=true&color=BCF5EA)<br>
 
   <div align="center" >
