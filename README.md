@@ -7,6 +7,6 @@
 ### owner of overit.one
 
   
-&nbsp;<p align="center">![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)<br>
+&nbsp;<p align="center">![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true&color=BCF5EA)<br>
 
   <div align="center" >
