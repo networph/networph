@@ -1,14 +1,18 @@
-Welcome to Networph's Tech Hub
-<div align="center">
-  <h2>About Me</h2>
-</div>
 
-I'm Networph, a seasoned software developer deeply engaged with Go, Lua, and Gleam. With over six years of programming experience, I create tools and applications that enhance productivity and solve complex problems. Explore my website for more about my projects or dive into my blog for detailed articles and updates.
-<div align="center">
-  <!-- Navigation Links -->
-  <a href='https://networph.tech'>Website</a> | 
-  <a href='https://networph.tech/blog'>Blog</a>
-</div>
-<div align="center">
-  <strong>Thanks for visiting!</strong>
-</div>
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        Hello There
+      <br>
+        I'm Networph, a Software Engineer, I like exploring vast digital landscapes, but I don't like limitations.
+      </b>
+      <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+craft+innovative+and+efficient+solutions.">
+      <br>
+      <b>
+        ~ Networph ~
+      </b>
+    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
