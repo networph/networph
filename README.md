@@ -1,7 +1,7 @@
-Hello from Networph!
+
 <div align="center">
   <img src="https://safe.kashima.moe/geajomx5q8m3.jpg" alt="Banner Image" style="border-radius: 12px;">
-  <h1>Welcome to Networph's Coding Space</h1>
+  <h1>Hello</h1>
   <!-- Navigation Links -->
   <p>
     ──── ─ ────<br>
