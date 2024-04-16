@@ -8,8 +8,8 @@ I'm a programmer, Linux user and I enjoy building things and learning about comp
 ### Currently Learning
 [![Learning](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 
-### Other Skills
-[![Other Skills](https://skillicons.dev/icons?i=linux,ps,ai,visualstudio,vscode,vite)](https://skillicons.dev)
+### Tools
+[![Other Skills](https://skillicons.dev/icons?i=linux,ps,ai,visualstudio,vscode,vite,discord)](https://skillicons.dev)
 
 ### OS
 [![OS](https://skillicons.dev/icons?i=nix,windows,arch)](https://skillicons.dev)
