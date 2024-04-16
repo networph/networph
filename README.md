@@ -1,12 +1,12 @@
-<div align="center" >
-<table width="100%">
-  
-### networph
+Hello.
+---
+I'm a programmer, Linux user and I enjoy building things and learning about computers. This profile has some of the things I really like working on, enjoy your stay while you're here.
 
-### c++ cheat dev and lua cheat dev
-### I pin everything i made for my linux system.
-### owner of overit.vip
-  
-&nbsp;<p align="center">![](https://komarev.com/ghpvc/?networth&abbreviated=true&color=BCF5EA)<br>
+### What I Know
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py)](https://skillicons.dev)
 
-  <div align="center" >
+### Currently Learning
+[![Learning](https://skillicons.dev/icons?i=c,lua)](https://skillicons.dev)
+
+### Other Skills
+[![Other Skills](https://skillicons.dev/icons?i=linux,ps,ai,visualstudio,vscode,vite)](https://skillicons.dev)
